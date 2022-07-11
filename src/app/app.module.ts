@@ -2,12 +2,12 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { FirstPracticeAppletonComponent } from './first-practice-appleton/first-practice-appleton.component';
+import { FirstPracticeAbletonComponent } from './first-practice-ableton/first-practice-ableton.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    FirstPracticeAppletonComponent
+    FirstPracticeAbletonComponent
   ],
   imports: [
     BrowserModule
