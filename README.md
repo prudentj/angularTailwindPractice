@@ -2,7 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
-## Development server
+## About This Project
+
+This project is to serve as playground to practice building sites from design files with Tailwind. I also hope to practice with Angular animation
+
+I am taking templates from this site: https://www.frontendpractice.com/
+## Angular Boilerplate Commands
+
+### Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
